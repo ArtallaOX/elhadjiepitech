@@ -1,0 +1,7 @@
+- 👋 Hi, I’m El-Hadji Boubacar TRAORE (@elhadjiepitech)
+- 👀 I’m passionate about network security and system administration.
+- 🌱 Currently, I'm studying Information Systems Administration at EPITECH, focusing on advanced network protocols and cybersecurity measures.
+- 💞️ I’m eager to collaborate on open-source security tools, network security projects, and system automation.
+- 📫 You can reach me via LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡  Fun fact: I love participating in Capture-The-Flag (CTF) challenges and have a knack for solving intricate network puzzles
